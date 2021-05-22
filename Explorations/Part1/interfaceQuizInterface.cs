@@ -4,8 +4,7 @@ using System.Text;
 
 namespace Explorations.Part1
 {
-    class Asset
+    class interfaceQuizInterface
     {
-
     }
 }

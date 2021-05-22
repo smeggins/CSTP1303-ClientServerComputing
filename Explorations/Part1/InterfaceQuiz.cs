@@ -4,8 +4,11 @@ using System.Text;
 
 namespace Explorations.Part1
 {
-    class Asset
+    public void interface quiz
     {
 
+    }
+    class InterfaceQuiz
+    {
     }
 }
