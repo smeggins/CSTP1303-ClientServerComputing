@@ -4,7 +4,8 @@ using System.Text;
 
 namespace Explorations.Part1
 {
-    class interfaceQuizInterface
+    public interface IInterface
     {
+        public void takesString(string a);
     }
 }

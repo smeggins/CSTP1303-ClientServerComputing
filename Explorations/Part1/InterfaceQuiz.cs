@@ -4,11 +4,13 @@ using System.Text;
 
 namespace Explorations.Part1
 {
-    public void interface quiz
+    
+    class InterfaceQuiz : IInterface
     {
 
-    }
-    class InterfaceQuiz
-    {
-    }
+        public void takesString(string a)
+        {
+            Console.WriteLine(a);
+        }
+}
 }
