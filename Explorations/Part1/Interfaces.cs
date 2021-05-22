@@ -18,6 +18,11 @@ namespace Explorations.Part1
         //you can inherit multiple interfaces
     }
 
+    public interface IValidatorInheritor : IValidator
+    {
+        // this extends the IValidator interface so you can add to it
+    }
+
     public class ExampleClass
     {
         //this is to illustrate that you can also inherit from a class
@@ -39,7 +44,6 @@ namespace Explorations.Part1
         {
             return b - 1;
         }
-
     }
 
     public class InterfaceWithClass : ExampleClass, IInterface2

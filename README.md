@@ -2,8 +2,17 @@ Course content for CST1303
 
 Student: Phillip Chadwick
 
+Roadmap:
+    -Generics
+    -Exceptions
+    -Delegates
+    -Streams
+    -Async programming - concerrency
+    -Collections and LINKQ
+    -Networking
+
 Teacher Note:
-Hey, I added the Person class into the part1 folder but left the program.cs in the main folder of Explorations to keep everything organized.
-Hopefully you see this.
+
+I have completed assignment 2 as GenericStack and the test code is in Program.cs
 
 If you have any questions or concerns my email is Phillipchadwick@hotmail.com

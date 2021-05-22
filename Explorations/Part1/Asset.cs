@@ -2,10 +2,11 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Explorations.Part1
+public class Asset
 {
-    class Asset
-    {
-
+    public Asset(string name) {
+        Name = name;
     }
+    public string Name;
 }
+
