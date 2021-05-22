@@ -16,14 +16,28 @@ using System.Text;
  * public bool HasItems()
  * {}
  * 
- * Push and Pop should check array boundries and return an error
- * Return type can be a bool for Push and Pop
- * true for success and false for failure
- * 
- *  For pop create a class with 2 members 
- *      public bool Result
- *      public object Item
- * 
+
+
+/*Push and Pop should check array boundries and return an error
+* Return type can be a bool for Push and Pop
+* true for success and false for failure
+*
+* For pop create a class called Item for the return type 
+* the class will have 2 members 
+* public bool Result
+* public object Item 
+
+Can you change your Pop to fit the description given in class today?
+
+*/
+ 
+  
+// here is an example for the return type  
+    public class Item
+    {
+        public bool Result;
+        public object Obj;
+    }
  * 
  * */
 public class PopReturn
