@@ -13,6 +13,7 @@ Roadmap:
 
 Teacher Note:
 
-I have completed assignment 2 as GenericStack and the test code is in Program.cs
+I decided to add the test code for each module in the class it'self under the method called test()
+All legacy test code has been added to a new sub folder
 
 If you have any questions or concerns my email is Phillipchadwick@hotmail.com
