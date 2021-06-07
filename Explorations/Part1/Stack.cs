@@ -33,13 +33,12 @@ Can you change your Pop to fit the description given in class today?
  
   
 // here is an example for the return type  
-    public class Item
-    {
-        public bool Result;
-        public object Obj;
-    }
- * 
- * */
+public class Item
+{
+    public bool Result;
+    public object Obj;
+}
+
 public class PopReturn
 {
     public PopReturn(bool result, object item)

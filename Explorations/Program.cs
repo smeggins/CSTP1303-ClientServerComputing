@@ -1,4 +1,5 @@
 ﻿using System;
+using Explorations.Part2;
 
 
 
@@ -11,7 +12,7 @@
 /*  Assembly - This is a way to separate projects, 
  *  each assembly creates its own dll or exe file
  */
-    
+
 
 namespace Explorations
 {
@@ -19,17 +20,7 @@ namespace Explorations
     {
         static void Main(string[] args)
         {
-            //var genericStack = new GenericStack();
-            ////statusReporter sr = null;
-            ////sr += writeStatustoConsole;
-            ////sr += writeStatusToFile;
-
-            ////reportUtil.work()
-            //genericStack.test();
-
-            GenericStack<int>.test();
-
-
+            FibonacciAssignment.test();
         }
     }
 }
