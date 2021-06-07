@@ -6,30 +6,6 @@ using System.Threading;
 
 namespace Explorations.Part2
 {
-    /*
-    // function that takes and integer and calculates the fibonacci sum up to that number
-    // run this function on a thread
-    // once it returns the main thread wi ll write the result to the console
-    // no console write or read should be done in the calculating thread
-    // in the main thread use Console.Read to read the input integer
-    // write the result
-    // then wait for the next input
-
-    // for example when your program starts:
-    hello, give me an int:
-    enter a number
-    prints the result
-
-    hello give me the int:
-    enter a number
-    prints the result
-
-    hello give me the int:
-    enter Q
-    terminates the program
-
-
-     */
     class FibonacciAssignment
     {
 
@@ -94,7 +70,7 @@ namespace Explorations.Part2
                 }
                 else
                 {
-                    Console.WriteLine("Thanks for Using my Fibonacci Calculator!");
+                    Console.WriteLine("Thanks for Using my Fibonacci Calculator!\n");
                     Console.WriteLine("Made By: Phillip Chadwick");
                     break;
                 }
