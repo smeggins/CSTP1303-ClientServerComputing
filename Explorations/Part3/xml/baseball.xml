@@ -25,7 +25,7 @@
 						<player name ="Brady Singer" />
 					</team>
 				</division>
-				<division type ="east">"
+				<division type ="east">
 					<team name="Red Sox">
 						<player name ="Chris Sale" />
 						<player name ="Alex Verdugo" />
@@ -47,7 +47,7 @@
 						<player name ="Matt Harvey" />
 					</team>
 				</division>
-				<division type ="west">"
+				<division type ="west">
 					<team name="Astros">
 						<player name ="Carlos Correa" />
 						<player name ="Justin Velander" />
