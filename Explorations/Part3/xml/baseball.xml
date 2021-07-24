@@ -1,142 +1,142 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Sports>
-	<sport type="baseball">
-		<League type="american">
+	<sport Sport="baseball">
+		<League League="american">
 			<Divisons>
-				<division type ="central">
-					<team name="White Sox">
-						<player name ="Tim Anderson" />
-						<player name ="Luis Robert" />
+				<division Division ="central">
+					<team Team="White Sox">
+						<player Player ="Tim Anderson" />
+						<player Player ="Luis Robert" />
 					</team>
-					<team name="Indians">
-						<player name ="Shane Bieber" />
-						<player name ="Josh Naylor" />
+					<team Team="Indians">
+						<player Player ="Shane Bieber" />
+						<player Player ="Josh Naylor" />
 					</team>
-					<team name="Tigers">
-						<player name ="Eric Hease" />
-						<player name ="Casey Mize" />
+					<team Team="Tigers">
+						<player Player ="Eric Hease" />
+						<player Player ="Casey Mize" />
 					</team>
-					<team name="Twins">
-						<player name ="Max Kepler" />
-						<player name ="Alex Kirillof" />
+					<team Team="Twins">
+						<player Player ="Max Kepler" />
+						<player Player ="Alex Kirillof" />
 					</team>
-					<team name="Royals">
-						<player name ="Whit Merrifi" />
-						<player name ="Brady Singer" />
-					</team>
-				</division>
-				<division type ="east">
-					<team name="Red Sox">
-						<player name ="Chris Sale" />
-						<player name ="Alex Verdugo" />
-					</team>
-					<team name="Rays">
-						<player name ="Wander Franco" />
-						<player name ="Kevin Kiermaier" />
-					</team>
-					<team name="Yankees">
-						<player name ="Gerrit Cole" />
-						<player name ="Rougned Odor" />
-					</team>
-					<team name="Blue Jays">
-						<player name ="George Springer" />
-						<player name ="Bo Bichette" />
-					</team>
-					<team name="Orioles">
-						<player name ="Trey Mancini" />
-						<player name ="Matt Harvey" />
+					<team Team="Royals">
+						<player Player ="Whit Merrifi" />
+						<player Player ="Brady Singer" />
 					</team>
 				</division>
-				<division type ="west">
-					<team name="Astros">
-						<player name ="Carlos Correa" />
-						<player name ="Justin Velander" />
+				<division Division ="east">
+					<team Team="Red Sox">
+						<player Player ="Chris Sale" />
+						<player Player ="Alex Verdugo" />
 					</team>
-					<team name="Athletics">
-						<player name ="Elvis Andrus" />
-						<player name ="Sean Manaea" />
+					<team Team="Rays">
+						<player Player ="Wander Franco" />
+						<player Player ="Kevin Kiermaier" />
 					</team>
-					<team name="Mariners">
-						<player name ="Logan Gilbert" />
-						<player name ="Kyle Seager" />
+					<team Team="Yankees">
+						<player Player ="Gerrit Cole" />
+						<player Player ="Rougned Odor" />
 					</team>
-					<team name="Angels">
-						<player name ="Mike Trout" />
-						<player name ="Jared Walsh" />
+					<team Team="Blue Jays">
+						<player Player ="George Springer" />
+						<player Player ="Bo Bichette" />
 					</team>
-					<team name="Rangers">
-						<player name ="ArtemiPanarin" />
-						<player name ="Adam Fox" />
+					<team Team="Orioles">
+						<player Player ="Trey Mancini" />
+						<player Player ="Matt Harvey" />
+					</team>
+				</division>
+				<division Division ="west">
+					<team Team="Astros">
+						<player Player ="Carlos Correa" />
+						<player Player ="Justin Velander" />
+					</team>
+					<team Team="Athletics">
+						<player Player ="Elvis Andrus" />
+						<player Player ="Sean Manaea" />
+					</team>
+					<team Team="Mariners">
+						<player Player ="Logan Gilbert" />
+						<player Player ="Kyle Seager" />
+					</team>
+					<team Team="Angels">
+						<player Player ="Mike Trout" />
+						<player Player ="Jared Walsh" />
+					</team>
+					<team Team="Rangers">
+						<player Player ="ArtemiPanarin" />
+						<player Player ="Adam Fox" />
 					</team>
 				</division>
 			</Divisons>
 		</League>
-		<League type="national">
+		<League League="national">
 			<Divisons>
-				<division type ="central">
-					<team name="Brewers">
-						<player name ="willy Adames" />
-						<player name ="Crobin Burnes" />
+				<division Division ="central">
+					<team Team="Brewers">
+						<player Player ="willy Adames" />
+						<player Player ="Crobin Burnes" />
 					</team>
-					<team name="Reds">
-						<player name ="Joey Votto" />
-						<player name ="Wade Miley" />
+					<team Team="Reds">
+						<player Player ="Joey Votto" />
+						<player Player ="Wade Miley" />
 					</team>
-					<team name="Cardinals">
-						<player name ="Kyle Murray" />
-						<player name ="JJ Watt" />
+					<team Team="Cardinals">
+						<player Player ="Kyle Murray" />
+						<player Player ="JJ Watt" />
 					</team>
-					<team name="Cubs">
-						<player name ="Kris Bryant" />
-						<player name ="Jake Arrieta" />
+					<team Team="Cubs">
+						<player Player ="Kris Bryant" />
+						<player Player ="Jake Arrieta" />
 					</team>
-					<team name="Pirates">
-						<player name ="Adam Frazier" />
-						<player name ="Bryan Reynolds" />
-					</team>
-				</division>
-				<division type ="east">
-					<team name="Mets">
-						<player name ="Jacob deGrom" />
-						<player name ="Pete Alonso" />
-					</team>
-					<team name="Phillies">
-						<player name ="bryce harper" />
-						<player name ="alec bohm" />
-					</team>
-					<team name="Braves">
-						<player name ="Marcell Ozuna" />
-						<player name ="Freddie Freeman" />
-					</team>
-					<team name="Nationals">
-						<player name ="Juan solo" />
-						<player name ="Max Scherzer" />
-					</team>
-					<team name="Marlins">
-						<player name ="Starling Marte" />
-						<player name ="Trevor Rog" />
+					<team Team="Pirates">
+						<player Player ="Adam Frazier" />
+						<player Player ="Bryan Reynolds" />
 					</team>
 				</division>
-				<division type ="west">
-					<team name="Giants">
-						<player name ="Daniel Jones" />
-						<player name ="Kenny Golladay" />
+				<division Division ="east">
+					<team Team="Mets">
+						<player Player ="Jacob deGrom" />
+						<player Player ="Pete Alonso" />
 					</team>
-					<team name="Dodgers">
-						<player name ="Trevor Bauer" />
-						<player name ="Mookie Betts" />
+					<team Team="Phillies">
+						<player Player ="bryce harper" />
+						<player Player ="alec bohm" />
 					</team>
-					<team name="Padres">
-						<player name ="yu Darvish" />
-						<player name ="Manny Machado" />
+					<team Team="Braves">
+						<player Player ="Marcell Ozuna" />
+						<player Player ="Freddie Freeman" />
 					</team>
-					<team name="Rockies">
-						<player name ="Charlie Blackmon" />
-						<player name ="Trevor Story" />
+					<team Team="Nationals">
+						<player Player ="Juan solo" />
+						<player Player ="Max Scherzer" />
 					</team>
-					<team name="Diamondbacks">
-						<player name ="Madison Bumgarner" />
-						<player name ="Ketel Matre" />
+					<team Team="Marlins">
+						<player Player ="Starling Marte" />
+						<player Player ="Trevor Rog" />
+					</team>
+				</division>
+				<division Division ="west">
+					<team Team="Giants">
+						<player Player ="Daniel Jones" />
+						<player Player ="Kenny Golladay" />
+					</team>
+					<team Team="Dodgers">
+						<player Player ="Trevor Bauer" />
+						<player Player ="Mookie Betts" />
+					</team>
+					<team Team="Padres">
+						<player Player ="yu Darvish" />
+						<player Player ="Manny Machado" />
+					</team>
+					<team Team="Rockies">
+						<player Player ="Charlie Blackmon" />
+						<player Player ="Trevor Story" />
+					</team>
+					<team Team="Diamondbacks">
+						<player Player ="Madison Bumgarner" />
+						<player Player ="Ketel Matre" />
 					</team>
 				</division>
 			</Divisons>
