@@ -1,0 +1,138 @@
+<baseball>
+	<League type="american">
+		<central>
+			<team name="White Sox">
+				<player name ="Tim Anderson" />
+				<player name ="Luis Robert" />
+			</team>
+			<team name="Indians">
+				<player name ="Shane Bieber" />
+				<player name ="Josh Naylor" />
+			</team>
+			<team name="Tigers">
+				<player name ="Eric Hease" />
+				<player name ="Casey Mize" />
+			</team>
+			<team name="Twins">
+				<player name ="Max Kepler" />
+				<player name ="Alex Kirillof" />
+			</team>
+			<team name="Royals">
+				<player name ="Whit Merrifi" />
+				<player name ="Brady Singer" />
+			</team>
+		</central>
+		<east>
+			<team name="Red Sox">
+				<player name ="Chris Sale" />
+				<player name ="Alex Verdugo" />
+			</team>
+			<team name="Rays">
+				<player name ="Wander Franco" />
+				<player name ="Kevin Kiermaier" />
+			</team>
+			<team name="Yankees">
+				<player name ="Gerrit Cole" />
+				<player name ="Rougned Odor" />
+			</team>
+			<team name="Blue Jays">
+				<player name ="George Springer" />
+				<player name ="Bo Bichette" />
+			</team>
+			<team name="Orioles">
+				<player name ="Trey Mancini" />
+				<player name ="Matt Harvey" />
+			</team>
+		</east>
+		<west>
+			<team name="Astros">
+				<player name ="Carlos Correa" />
+				<player name ="Justin Velander" />
+			</team>
+			<team name="Athletics">
+				<player name ="Elvis Andrus" />
+				<player name ="Sean Manaea" />
+			</team>
+			<team name="Mariners">
+				<player name ="Logan Gilbert" />
+				<player name ="Kyle Seager" />
+			</team>
+			<team name="Angels">
+				<player name ="Mike Trout" />
+				<player name ="Jared Walsh" />
+			</team>
+			<team name="Rangers">
+				<player name ="ArtemiPanarin" />
+				<player name ="Adam Fox" />
+			</team>
+		</west>
+	</League>
+	<League type="national">
+		<central>
+			<team name="Brewers">
+				<player name ="willy Adames" />
+				<player name ="Crobin Burnes" />
+			</team>
+			<team name="Reds">
+				<player name ="Joey Votto" />
+				<player name ="Wade Miley" />
+			</team>
+			<team name="Cardinals">
+				<player name ="Kyle Murray" />
+				<player name ="JJ Watt" />
+			</team>
+			<team name="Cubs">
+				<player name ="Kris Bryant" />
+				<player name ="Jake Arrieta" />
+			</team>
+			<team name="Pirates">
+				<player name ="Adam Frazier" />
+				<player name ="Bryan Reynolds" />
+			</team>
+		</central>
+		<east>
+			<team name="Mets">
+				<player name ="Jacob deGrom" />
+				<player name ="Pete Alonso" />
+			</team>
+			<team name="Phillies">
+				<player name ="bryce harper" />
+				<player name ="alec bohm" />
+			</team>
+			<team name="Braves">
+				<player name ="Marcell Ozuna" />
+				<player name ="Freddie Freeman" />
+			</team>
+			<team name="Nationals">
+				<player name ="Juan solo" />
+				<player name ="Max Scherzer" />
+			</team>
+			<team name="Marlins">
+				<player name ="Starling Marte" />
+				<player name ="Trevor Rog" />
+			</team>
+		</east>
+		<west>
+			<team name="Giants">
+				<player name ="Daniel Jones" />
+				<player name ="Kenny Golladay" />
+			</team>
+			<team name="Dodgers">
+				<player name ="Trevor Bauer" />
+				<player name ="Mookie Betts" />
+			</team>
+			<team name="Padres">
+				<player name ="yu Darvish" />
+				<player name ="Manny Machado" />
+			</team>
+			<team name="Rockies">
+				<player name ="Charlie Blackmon" />
+				<player name ="Trevor Story" />
+			</team>
+			<team name="Diamondbacks">
+				<player name ="Madison Bumgarner" />
+				<player name ="Ketel Matre" />
+			</team>
+		</west>
+	</League>
+</baseball>

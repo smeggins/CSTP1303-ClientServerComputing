@@ -1,18 +1,18 @@
 # **Online Library System Project**
 
-###Students: Phillip Chadwick, Abbe Azale
+### Students: Phillip Chadwick, Abbe Azale
 
-###Roadmap:
+### Roadmap:
     -
 
-###Teacher Note:
+### Teacher Note:
 
 
 
-## **If you have any questions or concerns Our emails are: **
+## **If you have any questions or concerns Our emails are:**
 
 Phillip Chadwick
 *Phillipchadwick@hotmail.com*
 
 Abbe Azale
-*Your email here*
+*abbeazale98@gmail.com*

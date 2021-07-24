@@ -1,4 +1,5 @@
 ﻿using System;
+using Explorations.Part1;
 using Explorations.Part2;
 
 
@@ -20,7 +21,7 @@ namespace Explorations
     {
         static void Main(string[] args)
         {
-            FibonacciAssignment.test();
+            Streams.test();
         }
     }
 }

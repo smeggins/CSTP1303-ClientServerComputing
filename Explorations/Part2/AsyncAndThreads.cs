@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
-using System.Threading;
+using System.Threading; 
 
 namespace Explorations.Part2
 {
@@ -128,6 +128,28 @@ namespace Explorations.Part2
         public static void throwingFunc()
         {
             throw new Exception("something done mucked up");
+        }
+
+
+        public static void threadPriority()
+        {
+            // priority of threads based on other threads
+            // increasing the priority of 1 thread slows down all other threads 
+            // overuse can slowdown entire computer
+            // should be used as last resort and only to solve specific problems
+            // is controlled by an enum value that goes from 0 -lowest to 5? highest
+            var signal = new ManualResetEvent(false);
+            new Thread(() =>
+            {
+                Console.WriteLine("wait for the go...");
+                signal.WaitOne();
+                signal.Dispose();
+                Console.WriteLine("got it .. excecuting");
+            
+            }).Start();
+
+            Thread.Sleep(3000);
+            signal.Set();
         }
 
         public static void test()
