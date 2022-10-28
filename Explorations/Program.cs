@@ -21,7 +21,7 @@ namespace Explorations
     {
         static void Main(string[] args)
         {
-            Xml.test();
+            JsonEXP.test();
         }
     }
 }

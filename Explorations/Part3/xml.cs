@@ -73,16 +73,21 @@ public static class Xml
         return customer;
     }
 
+    public static void xmlNamespace()
+    {
+        var elem1 = new XElement("{http://mydomain.com/xmlspace}customer", "customerLogs");
+        Console.WriteLine(elem1.ToString());
+    }
+
     public static void test()
     {
         var xmlFileLocation = "S:/VCC/client server computing/Explorations/Part3/xml/baseball.xml";
 
         //xmlParse();
-        xmlParseFromFile(xmlFileLocation);
+        //xmlParseFromFile(xmlFileLocation);
+        //Console.WriteLine(createXml().ToString());
+        xmlNamespace();
     }
-    
-    public static void xmlRetrieve()
-    {
 
-    }
+   
 }

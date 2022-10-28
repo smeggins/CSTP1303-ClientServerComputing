@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<cusomer xmlns = "vcc.1103.summer2021">
+	<comment>customer HAS NAMESPACE OF vcc.1103.summer2021</comment>
+	<address xmlns ="">
+		<comment>address and postalcode have no namespaces now because 
+		address overwrites the previous namespace and all child elements
+		inherit from their direct parent
+		</comment>
+		<postalCode></postalCode>
+	</address>
+	<address2 xmlns:vcc1103 ="vcc.1103.summer2021">
+		<postalcode xmlns ="gbk.myspecial.ns">
+			<vcc1103:first3>123</vcc1103:first3>
+		</postalcode>
+		
+	</address2>
+</cusomer>
